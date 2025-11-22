@@ -1,0 +1,17 @@
+# python
+__pycache__/
+*.pyc
+
+# venv
+.venv/
+
+# data and tmp
+data/
+tmp/
+*.tmp
+
+# model weights (uncomment to exclude if you won't push weights)
+# weights/
+
+# editor
+.vscode/
